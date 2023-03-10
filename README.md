@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HYPyJe-G75sWi9cnD4l_rQ.png)](https://Night3y3.io)
 
 <h1 align="center">Hi here is Sabuj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Game developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=night3y3&label=Profile%20views&color=0e75b6&style=flat" alt="night3y3" /> </p>
 
