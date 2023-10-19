@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with Multiplayer implentation **Polygon NFT Game**
 
-- 💬 Ask me about **Flutter, Unity, solidity**
+- 💬 Ask me about **Front end, Unity, DSA**
 
 - 📫 How to reach me **sabrexghosh@gmail.com**
 
