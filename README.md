@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabujgh55659975" target="blank"><img src="https://img.shields.io/twitter/follow/sabujgh55659975?logo=twitter&style=for-the-badge" alt="sabujgh55659975" /></a> </p>
 
-<img src="https://api.daily.dev/devcards/a333f01c1db14c498d2ac56746401176.png?r=a0y" width="400" alt="Sabuj Ghosh's Dev Card"/>
+<img src="https://github.com/Night3y3/Night3y3/blob/main/devcard.svg" width="400" alt="Sabuj's Dev Card"/>
 
 - 🔭 I’m currently working on Unity **Polygon NFT Game**
 
