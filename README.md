@@ -1,5 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HYPyJe-G75sWi9cnD4l_rQ.png)](https://Night3y3.io)
-
 <h1 align="center">Hi here is Sabuj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -11,21 +9,15 @@
 
 <img src="https://github.com/Night3y3/Night3y3/blob/main/devcard.svg" width="400" alt="Sabuj's Dev Card"/>
 
-- 🔭 I’m currently working on Unity **Polygon NFT Game**
+- 🔭 I’m currently working on **Cloud**
 
-- 🌱 I’m currently learning Unity **Udemy ,Youtube**
+- 🤝 I’m looking for an internship on Fullstack, DevOps, backend, frontend.
 
-- 🤝 I’m looking for help with Multiplayer implentation **Polygon NFT Game**
-
-- 💬 Ask me about **Front end, Unity, DSA**
+- 💬 Ask me about **Javascript, Java, DevOps**
 
 - 📫 How to reach me **sabrexghosh@gmail.com**
 
-- ⚡ Fun fact **I think I need to learn more**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I can help you ship faster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
