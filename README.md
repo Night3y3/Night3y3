@@ -9,15 +9,9 @@
 
 <img src="https://github.com/Night3y3/Night3y3/blob/main/devcard.svg" width="400" alt="Sabuj's Dev Card"/>
 
-- 🔭 I’m currently working on **Cloud**
-
-- 🤝 I’m looking for an internship on Fullstack, DevOps, backend, frontend.
-
-- 💬 Ask me about **Javascript, Java, DevOps**
+- 🔭 I’m currently SDE at **House of EdTech**
 
 - 📫 How to reach me **sabrexghosh@gmail.com**
-
-- ⚡ Fun fact **I can help you ship faster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
